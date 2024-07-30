@@ -1,8 +1,8 @@
-# React + Vite
+Random Quote Machine App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React app generates and displays random inspirational quotes. Users can:
 
-Currently, two official plugins are available:
+    View quotes with randomly selected background colors.
+    Share quotes on Twitter directly from the app.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Created as part of the FreeCodeCamp Front End Development Libraries certification, this project demonstrates React fundamentals and interactive design.
